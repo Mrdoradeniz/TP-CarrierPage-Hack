@@ -22,6 +22,6 @@ Olmadığından dolayı python "request" modülü kullanılarak bot hesaplar olu
 Oluşturulan bot hesaplardan girilip sahte cv ve fotoğraf dosyaları yükleniyor. 
 
 <h2>Düzeltilmesi Gerekilenler</h2><br>
-<b>#</b> Üye kayıt bölümüne BOT doğrulama eklentisi kurulmalıdır<br>
+<b>#</b> Üye kayıt bölümüne BOT doğrulama sistemi kurulmalıdır<br>
 
 
